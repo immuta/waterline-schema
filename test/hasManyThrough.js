@@ -1,5 +1,5 @@
 var assert = require('assert');
-var _ = require('lodash');
+var _ = require('@sailshq/lodash');
 
 var Schema = require('../lib/waterline-schema');
 var References = require('../lib/waterline-schema/references');
