@@ -1,7 +1,7 @@
 {
   "name": "waterline-schema",
   "description": "The core schema builder used in the Waterline ORM.",
-  "version": "0.2.0",
+  "version": "0.2.0-immuta1",
   "contributors": [
     {
       "name": "particlebanana",
@@ -9,7 +9,7 @@
     }
   ],
   "dependencies": {
-    "lodash": "3.10.1"
+    "@sailshq/lodash": "^3.10.4"
   },
   "devDependencies": {
     "mocha": "2.4.5"

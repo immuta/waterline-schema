@@ -1,6 +1,6 @@
 var assert = require('assert');
 var Schema = require('../lib/waterline-schema');
-var _ = require('lodash');
+var _ = require('@sailshq/lodash');
 
 describe('Meta Extended Data', function() {
 
